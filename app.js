@@ -169,7 +169,7 @@ function create_package_sections(packages) {
 	});
 
 
-	const ui_root = document.getElementById('packages');
+	const fragment = new DocumentFragment();
 	section_ids
 		.filter(id => sections[id])
 		.forEach(id => {
@@ -187,8 +187,10 @@ function create_package_sections(packages) {
 				.forEach(row => ui_table.appendChild(row));
 			ui_container.appendChild(ui_table);
 
-			ui_root.appendChild(ui_container);
+			fragment.appendChild(ui_container);
 		});
+	document.getElementById('packages').appendChild(fragment);
+
 
 	document.querySelector('table .flag.video').classList.add('first');
 	document.querySelector('table .flag.cpu').classList.add('first');
