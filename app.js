@@ -182,6 +182,7 @@ function create_package_sections(packages) {
 			const ui_table = document.createElement('table');
 			ui_table.appendChild(create_section_thead());
 			sections[id]
+				.sort((a, b) => a.id.localeCompare(b.id))
 				.map(pkg => create_section_row(pkg))
 				.forEach(row => ui_table.appendChild(row));
 			ui_container.appendChild(ui_table);
