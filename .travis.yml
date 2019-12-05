@@ -4,7 +4,7 @@ script:
   - git clone --branch=fkms_rpi4 --depth=1 https://github.com/RetroPie/RetroPie-Setup.git retropie
   - (cd retropie && ../rpiflags.sh) > packages.csv
   - (cd retropie && ../rpicommit.sh) > commit.csv
-  - rm -rf retropie *.sh
+  - rm -rf retropie *.sh .travis.yml
 
 deploy:
   provider: pages
