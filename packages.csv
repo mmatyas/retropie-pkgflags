@@ -51,7 +51,7 @@ exp;ti99sim;TI-99/SIM - Texas Instruments Home Computer Emulator;dispmanx !mali;
 opt;uae4all;Amiga emulator UAE4All;dispmanx !x86 !mali !kms;
 opt;uae4arm;Amiga emulator with JIT support;!x86 !mali !kms;
 opt;vice;C64 emulator VICE;;
-exp;xm7;Fujitsu FM-7 series emulator;dispmanx !mali !kms;
+exp;xm7;Fujitsu FM-7 series emulator;!mali !kms;
 opt;xroar;Dragon / CoCo emulator XRoar;!mali;
 opt;zesarux;ZX Spectrum emulator ZEsarUX;dispmanx !mali;
 exp;lr-4do;3DO emu - 4DO/libfreedo port for libretro;;
