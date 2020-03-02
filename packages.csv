@@ -157,7 +157,7 @@ opt;love-0.10.2;Love - 2d Game Engine v0.10.2;!aarch64;
 opt;love;Love - 2d Game Engine;!aarch64;
 opt;lzdoom;lzdoom - DOOM source port (legacy version of GZDoom);;
 opt;micropolis;Micropolis - Open Source City Building Game;!mali;
-exp;minecraft;Minecraft - Pi Edition;!all rpi;
+exp;minecraft;Minecraft - Pi Edition;!all videocore;
 exp;mysticmine;Mystic Mine - Rail game for up to six players on one keyboard;;
 exp;openblok;OpenBlok: A Block Dropping Game;;
 exp;openbor;OpenBOR - Beat 'em Up Game Engine;dispmanx !mali !x11;
