@@ -36,7 +36,7 @@ opt;pisnes;SNES emulator PiSNES;!all videocore;
 opt;ppsspp;PlayStation Portable emulator PPSSPP;;
 exp;px68k;SHARP X68000 Emulator;!mali !kms;
 exp;quasi88;NEC PC-8801 emulator;dispmanx !mali !kms;
-exp;redream;Redream Dreamcast emulator;noinstclean !all rpi3 rpi4 !videocore;
+exp;redream;Redream Dreamcast emulator;noinstclean !all rpi4;
 opt;reicast;Dreamcast emulator Reicast;!armv6;
 exp;residualvm;ResidualVM - A 3D Game Interpreter;dispmanx !mali;
 core;retroarch;RetroArch - frontend to the libretro emulator cores - required by all lr-* emulators;;
