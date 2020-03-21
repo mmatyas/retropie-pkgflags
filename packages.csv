@@ -119,7 +119,6 @@ exp;lr-puae;P-UAE Amiga emulator port for libretro;;
 exp;lr-px68k;SHARP X68000 Emulator;;
 exp;lr-quasi88;NEC PC-8801 emu - Quasi88 port for libretro;;
 main;lr-quicknes;NES emulator - QuickNES Port for libretro;;
-exp;lr-redream;Dreamcast emulator - redream port for libretro;!armv6;
 exp;lr-scummvm;ScummVM port for libretro;;
 opt armv6=main;lr-snes9x2002;Super Nintendo emu - ARM optimised Snes9x 1.39 port for libretro;!all arm;
 opt arm=main;lr-snes9x2005;Super Nintendo emu - Snes9x 1.43 based port for libretro;;
