@@ -136,7 +136,7 @@ exp;lr-x1;Sharp X1 emulator - X Millenium port for libretro;;
 opt;lr-xrick;Open source implementation of Rich Dangerous - xrick ported for libretro;;
 exp;lr-yabause;Sega Saturn emu - Yabause (optimised) port for libretro;!armv6;
 exp;abuse;Abuse;;
-opt;alephone;AlephOne - Marathon Engine;;
+opt;alephone;AlephOne - Marathon Engine;!mali;
 exp;bombermaaan;Bombermaaan - Classic bomberman game;dispmanx !mali;
 opt;cannonball;Cannonball - An Enhanced OutRun Engine;;
 exp;cdogs-sdl;C-Dogs SDL - Classic overhead run-and-gun game;dispmanx !mali;
