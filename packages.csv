@@ -186,7 +186,7 @@ config;configedit;Edit RetroPie/RetroArch configurations;;
 config;consolefont;Configure default console font size/type;!x11;
 driver;controlblock;ControlBlock Driver;noinstclean !all rpi;
 driver;custombluez;Updated version of BlueZ Bluetooth stack\n\nInstall alongside 'sixaxis' driver if you need to pair third-party (Gasia/Shanwan) DualShock 3 controllers.\nNeeded only if your distribution's BlueZ version is <5.48.;;
-driver;customhidsony;Custom hid-sony driver backported from kernel 4.15;noinstclean;
+driver;customhidsony;Custom hid-sony (Sony DualShock) driver with enhanced third-party controller support;noinstclean;
 config;dispmanx;Configure emulators to use dispmanx SDL;!mali !x11;
 exp;emulationstation-dev;EmulationStation (latest development version) - Frontend used by RetroPie for launching emulators;frontend;
 core;emulationstation;EmulationStation - Frontend used by RetroPie for launching emulators;frontend;
