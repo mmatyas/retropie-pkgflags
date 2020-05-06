@@ -96,6 +96,7 @@ opt;lr-mame2010;Arcade emu - MAME 0.139 port for libretro;;
 exp;lr-mame2015;Arcade emu - MAME 0.160 port for libretro;;
 exp;lr-mame2016;MAME emulator - MAME 0.174 port for libretro;nobin;
 exp;lr-mame;MAME emulator - MAME (current) port for libretro;nobin;
+exp;lr-mesen;High-accuracy NES and Famicom emulator;!armv6;
 exp;lr-mess2016;MESS emulator - MESS Port for libretro;nobin;
 exp;lr-mess;MESS emulator - MESS Port for libretro;nobin;
 main;lr-mgba;(Super) Game Boy Color/GBA emulator - MGBA (optimised) port for libretro;;
