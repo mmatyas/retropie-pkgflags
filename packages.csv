@@ -128,6 +128,7 @@ opt armv8=main x86=main;lr-snes9x;Super Nintendo emu - Snes9x (current) port for
 main;lr-stella2014;Atari 2600 emulator - Stella port for libretro;;
 exp;lr-superflappybirds;Super Flappy Birds - Multiplayer Flappy Bird Clone;;
 opt;lr-tgbdual;Gameboy Color emu - TGB Dual port for libretro;;
+exp;lr-theodore;Thomson MO/TO system emulator;;
 opt;lr-tyrquake;Quake 1 engine - Tyrquake port for libretro;;
 main;lr-vba-next;GBA emulator - VBA-M (optimised) port for libretro;!armv6;
 main;lr-vecx;Vectrex emulator - vecx port for libretro;;
