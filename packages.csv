@@ -67,7 +67,7 @@ main;lr-beetle-supergrafx;SuperGrafx TG-16 emulator - Mednafen PCE Fast port for
 opt;lr-beetle-vb;Virtual Boy emulator - Mednafen VB (optimised) port for libretro;;
 opt;lr-beetle-wswan;Wonderswan emu - Mednafen WonderSwan core port for libretro;;
 opt;lr-bluemsx;MSX/MSX2/Colecovision emu - blueMSX port for libretro;;
-opt;lr-bsnes;Super Nintendo emu - bsnes port for libretro;!armv6;
+opt;lr-bsnes;Super Nintendo Emulator - bsnes port for libretro (v115);!armv6;
 main;lr-caprice32;Amstrad CPC emu - Caprice32 port for libretro;;
 exp;lr-desmume2015;NDS emu - DESMUME (2015 version);;
 exp;lr-desmume;NDS emu - DESMUME;;
