@@ -180,7 +180,7 @@ opt;wolf4sdl;Wolf4SDL - port of Wolfenstein 3D / Spear of Destiny engine;dispman
 opt;xrick;xrick - Open source implementation of Rick Dangerous;!mali;
 exp;yquake2;yquake2 - The Yamagi Quake II client;;
 exp;attractmode;Attract Mode emulator frontend;!mali !kms frontend;
-config;audiosettings;Configure audio settings;!x86 !mali;
+config;audiosettings;Configure audio settings;!all rpi;
 config;autostart;Auto-start Emulation Station / Kodi on boot;;
 config;bashwelcometweak;Bash Welcome Tweak (shows additional system info on login);;
 config;bluetooth;Configure Bluetooth Devices;;
