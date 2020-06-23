@@ -150,7 +150,7 @@ opt;darkplaces-quake;Quake 1 engine - Darkplaces Quake port with GLES rendering;
 exp;digger;Digger Remastered;;
 opt;dxx-rebirth;DXX-Rebirth (Descent & Descent 2) source port;!mali;
 opt;eduke32;Duke3D source port;;
-exp;gemrb;gemrb - open-source implementation of Infinity Engine;;
+exp dispmanx;gemrb;gemrb - open-source implementation of Infinity Engine;;
 opt;giana;Giana's Return;!all videocore;
 exp;ionfury;Ion Fury - commercial FPS game based on eduke32 source port;;
 opt;ioquake3;Quake 3 source port;!videocore;
