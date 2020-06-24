@@ -140,7 +140,7 @@ exp;lr-virtualjaguar;Atari Jaguar emu - Virtual Jaguar (optimised) port for libr
 exp;lr-x1;Sharp X1 emulator - X Millenium port for libretro;;
 opt;lr-xrick;Open source implementation of Rich Dangerous - xrick ported for libretro;;
 exp;lr-yabause;Sega Saturn emu - Yabause (optimised) port for libretro;!armv6;
-exp;abuse;Abuse;;
+exp;abuse;Abuse;!all;
 opt;alephone;AlephOne - Marathon Engine;!mali;
 exp;bombermaaan;Bombermaaan - Classic bomberman game;dispmanx !mali;
 opt;cannonball;Cannonball - An Enhanced OutRun Engine;;
@@ -150,7 +150,7 @@ opt;darkplaces-quake;Quake 1 engine - Darkplaces Quake port with GLES rendering;
 exp;digger;Digger Remastered;;
 opt;dxx-rebirth;DXX-Rebirth (Descent & Descent 2) source port;!mali;
 opt;eduke32;Duke3D source port;;
-exp dispmanx;gemrb;gemrb - open-source implementation of Infinity Engine;;
+exp;gemrb;gemrb - open-source implementation of Infinity Engine;!mali dispmanx;
 opt;giana;Giana's Return;!all videocore;
 exp;ionfury;Ion Fury - commercial FPS game based on eduke32 source port;;
 opt;ioquake3;Quake 3 source port;!videocore;
