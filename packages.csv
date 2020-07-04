@@ -229,4 +229,5 @@ config;wifi;Configure Wifi;!x11;
 config;wikiview;RetroPie-Setup Wiki Viewer;;
 driver;xarcade2jstick;Xarcade2Jstick;noinstclean;
 driver;xboxdrv;Xbox / Xbox 360 gamepad driver;;
+driver;xpadneo;Advanced Linux driver for Xbox One wireless gamepads;nobin;
 driver;xpad;Updated Xpad Linux Kernel driver;noinstclean !mali;
