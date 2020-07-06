@@ -182,7 +182,7 @@ exp;vvvvvv;VVVVVV - 2D puzzle game by Terry Cavanagh;;
 opt;wolf4sdl;Wolf4SDL - port of Wolfenstein 3D / Spear of Destiny engine;dispmanx !mali;
 opt;xrick;xrick - Open source implementation of Rick Dangerous;!mali;
 exp;yquake2;yquake2 - The Yamagi Quake II client;;
-exp;attractmode;Attract Mode emulator frontend;!mali !kms frontend;
+exp;attractmode;Attract Mode emulator frontend;!mali frontend;
 config;audiosettings;Configure audio settings;!all rpi;
 config;autostart;Auto-start Emulation Station / Kodi on boot;;
 config;bashwelcometweak;Bash Welcome Tweak (shows additional system info on login);;
