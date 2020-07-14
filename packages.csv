@@ -49,7 +49,7 @@ opt;simcoupe;SimCoupe SAM Coupe emulator;;
 opt;snes9x;SNES emulator SNES9X-RPi;dispmanx !all videocore;
 opt;stella;Atari2600 emulator STELLA;;
 opt;stratagus;Stratagus - A strategy game engine to play Warcraft I or II, Starcraft, and some similar open-source games;!mali !kms;
-exp;ti99sim;TI-99/SIM - Texas Instruments Home Computer Emulator;dispmanx !mali;
+exp;ti99sim;TI-99/SIM - Texas Instruments Home Computer Emulator;;
 opt;uae4all;Amiga emulator UAE4All;dispmanx !all videocore;
 opt;uae4arm;Amiga emulator with JIT support;!all videocore;
 opt;vice;C64 emulator VICE;;
