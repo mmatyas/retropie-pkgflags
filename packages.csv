@@ -18,7 +18,7 @@ opt;frotz;Z-Machine Interpreter for Infocom games;;
 exp;fs-uae;Amiga emulator - FS-UAE integrates the most accurate Amiga emulation code available from WinUAE;!all !arm x11;
 opt;fuse;ZX Spectrum emulator Fuse;dispmanx !mali;
 opt;gngeopi;NeoGeo emulator GnGeoPi;!all arm !mali !kms;
-opt;gpsp;GameBoy Advance emulator;noinstclean !all arm !mali !kms;
+opt;gpsp;GameBoy Advance emulator;noinstclean !all videocore;
 opt;hatari;Atari emulator Hatari;;
 opt;jzintv;Intellivision emulator;dispmanx !mali;
 opt;linapple;Apple 2 emulator LinApple;dispmanx !mali;
