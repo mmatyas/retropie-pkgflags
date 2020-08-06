@@ -44,7 +44,7 @@ core;retroarch;RetroArch - frontend to the libretro emulator cores - required by
 opt;rpix86;DOS Emulator rpix86;!all rpi !kms;
 opt;scummvm-sdl1;ScummVM - built with legacy SDL1 support.;dispmanx !mali !x11;
 opt;scummvm;ScummVM;;
-exp;sdltrs;Radio Shack TRS-80 Model I/III/4/4P emulator;dispmanx !mali !kms;
+exp;sdltrs;Radio Shack TRS-80 Model I/III/4/4P emulator;;
 opt;simcoupe;SimCoupe SAM Coupe emulator;;
 opt;snes9x;SNES emulator SNES9X-RPi;dispmanx !all videocore;
 opt;stella;Atari2600 emulator STELLA;;
