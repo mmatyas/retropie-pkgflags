@@ -97,10 +97,10 @@ exp;lr-mame2003-plus;Arcade emu - updated MAME 0.78 port for libretro with added
 main armv6=opt;lr-mame2003;Arcade emu - MAME 0.78 port for libretro;;
 opt;lr-mame2010;Arcade emu - MAME 0.139 port for libretro;;
 exp;lr-mame2015;Arcade emu - MAME 0.160 port for libretro;;
-exp;lr-mame2016;MAME emulator - MAME 0.174 port for libretro;nobin;
+exp;lr-mame2016;MAME emulator - MAME 0.174 port for libretro;;
 exp;lr-mame;MAME emulator - MAME (current) port for libretro;;
 exp;lr-mesen;High-accuracy NES and Famicom emulator;!armv6;
-exp;lr-mess2016;MESS emulator - MESS Port for libretro;nobin;
+exp;lr-mess2016;MESS emulator - MESS Port for libretro;;
 exp;lr-mess;MESS emulator - MESS Port for libretro;;
 main;lr-mgba;(Super) Game Boy Color/GBA emulator - MGBA (optimised) port for libretro;;
 opt;lr-mrboom;Mr.Boom - 8 players Bomberman clone for libretro.;;
