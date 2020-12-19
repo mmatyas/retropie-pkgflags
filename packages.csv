@@ -34,6 +34,7 @@ exp;pcsx2;PS2 emulator PCSX2;!all x86;
 opt;pcsx-rearmed;Playstation emulator - PCSX (arm optimised);dispmanx !all videocore;
 opt armv6=main;pifba;FBA emulator PiFBA;!all videocore;
 opt;pisnes;SNES emulator PiSNES;!all videocore;
+opt;ppsspp-1.5.4;PlayStation Portable emulator PPSSPP v1.5.4;!all videocore;
 opt;ppsspp;PlayStation Portable emulator PPSSPP;;
 exp;px68k;SHARP X68000 Emulator;!mali !kms;
 exp;quasi88;NEC PC-8801 emulator;dispmanx !mali !kms;
