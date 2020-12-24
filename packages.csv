@@ -27,7 +27,7 @@ exp;mame;MAME emulator;!mali !armv6;
 exp;minivmac;Macintosh Plus Emulator;;
 main;mupen64plus;N64 emulator MUPEN64Plus;;
 exp;np2pi;NEC PC-9801 emulator;!all dispmanx rpi !aarch64;
-opt;openmsx;MSX emulator OpenMSX;!mali;
+opt;openmsx;MSX emulator OpenMSX;;
 exp;oricutron;Oricutron Oric 1/Oric Atmos emulator;;
 opt;osmose;Gamegear emulator Osmose;!mali !kms;
 exp;pcsx2;PS2 emulator PCSX2;!all x86;
