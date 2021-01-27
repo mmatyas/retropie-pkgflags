@@ -143,7 +143,6 @@ exp;lr-virtualjaguar;Atari Jaguar emu - Virtual Jaguar (optimised) port for libr
 exp;lr-x1;Sharp X1 emulator - X Millenium port for libretro;;
 opt;lr-xrick;Open source implementation of Rich Dangerous - xrick ported for libretro;;
 exp;lr-yabause;Sega Saturn emu - Yabause (optimised) port for libretro;!armv6;
-exp;abuse;Abuse;!all;
 opt;alephone;AlephOne - Marathon Engine;!mali;
 exp;bombermaaan;Bombermaaan - Classic bomberman game;dispmanx !mali;
 opt;cannonball;Cannonball - An Enhanced OutRun Engine;;
