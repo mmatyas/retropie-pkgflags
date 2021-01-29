@@ -95,7 +95,7 @@ main;lr-handy;Atari Lynx emulator - Handy port for libretro;;
 exp;lr-hatari;Atari emulator - Hatari port for libretro;;
 exp;lr-kronos;Saturn & ST-V emulator - Kronos port for libretro;!arm !aarch64;
 opt armv6=main;lr-mame2000;Arcade emu - MAME 0.37b5 port for libretro;;
-exp;lr-mame2003-plus;Arcade emu - updated MAME 0.78 port for libretro with added game support;;
+opt;lr-mame2003-plus;Arcade emu - updated MAME 0.78 port for libretro with added game support;;
 main armv6=opt;lr-mame2003;Arcade emu - MAME 0.78 port for libretro;;
 opt;lr-mame2010;Arcade emu - MAME 0.139 port for libretro;;
 exp;lr-mame2015;Arcade emu - MAME 0.160 port for libretro;;
