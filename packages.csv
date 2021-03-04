@@ -141,7 +141,7 @@ main;lr-vecx;Vectrex emulator - vecx port for libretro;;
 opt;lr-vice;C64 emulator - port of VICE for libretro;;
 exp;lr-virtualjaguar;Atari Jaguar emu - Virtual Jaguar (optimised) port for libretro;!armv6;
 exp;lr-x1;Sharp X1 emulator - X Millenium port for libretro;;
-opt;lr-xrick;Open source implementation of Rich Dangerous - xrick ported for libretro;;
+opt;lr-xrick;Open source implementation of Rick Dangerous - xrick ported for libretro;;
 exp;lr-yabause;Sega Saturn emu - Yabause (optimised) port for libretro;!armv6;
 opt;alephone;AlephOne - Marathon Engine;!mali;
 exp;bombermaaan;Bombermaaan - Classic bomberman game;dispmanx !mali;
