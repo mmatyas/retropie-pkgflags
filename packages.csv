@@ -124,7 +124,7 @@ main;lr-prosystem;Atari 7800 ProSystem emu - ProSystem port for libretro;;
 opt;lr-puae;P-UAE Amiga emulator port for libretro;;
 exp;lr-px68k;SHARP X68000 Emulator;;
 exp;lr-quasi88;NEC PC-8801 emu - Quasi88 port for libretro;;
-main;lr-quicknes;NES emulator - QuickNES Port for libretro;;
+opt armv6=main;lr-quicknes;NES emulator - QuickNES Port for libretro;;
 exp;lr-scummvm;ScummVM port for libretro;;
 exp;lr-smsplus-gx;Sega Master System & Game Gear emu - SMSPlus (enhanced) port for libretro;;
 opt armv6=main;lr-snes9x2002;Super Nintendo emu - ARM optimised Snes9x 1.39 port for libretro;!all arm;
