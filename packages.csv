@@ -78,6 +78,7 @@ exp;lr-dinothawr;Dinothawr - standalone libretro puzzle game;;
 exp;lr-dolphin;Gamecube/Wii emulator - Dolphin port for libretro;!all 64bit;
 exp;lr-dosbox-pure;DOS emulator;;
 exp;lr-dosbox;DOS emulator;;
+exp;lr-duckstation;PlayStation emulator - Duckstation for libretro;!all arm !armv6 aarch64 64bit;
 opt armv6=main;lr-fbalpha2012;Arcade emu - Final Burn Alpha (0.2.97.30) port for libretro;;
 main armv6=opt;lr-fbneo;Arcade emu - FinalBurn Neo (latest version) port for libretro;;
 main;lr-fceumm;NES emu - FCEUmm port for libretro;;
